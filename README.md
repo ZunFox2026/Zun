@@ -85,3 +85,29 @@ Cả hai đều dùng chung bảng màu **xanh than – xanh cyan**, đảm bả
 ---
 
 ## 📁 Cấu trúc thư mục
+
+zunny/
+├── zun.jpg                # Logo công ty (avatar vuông)
+Nếu cần thêm các biến thể (logo ngang, sticker, ảnh nền…), chúng tôi sẽ mở rộng thư mục `variants/` và cập nhật tài liệu.
+
+---
+
+## 📫 Liên hệ & Đóng góp
+
+Mọi ý kiến đóng góp về bộ nhận diện thương hiệu, hoặc báo cáo sai sót, vui lòng liên hệ:
+
+- **Telegram Bot:** [@Zunnycloud_bot](https://t.me/Zunnycloud_bot)  
+- **Email:** [zunny932@gmail.com](mailto:zunny932@gmail.com)
+
+Zun Technologies luôn trân trọng mọi phản hồi từ cộng đồng.
+
+---
+
+<div align="center">
+  <sub>© 2026 Zun Technologies – Bản quyền thuộc về Zun Technologies.  
+  Logo và linh vật là tài sản độc quyền, vui lòng không sử dụng khi chưa có sự cho phép.</sub>
+</div>
+├── zunnyavatar.jpg        # Linh vật Zunny (avatar vuông)
+└── README.md              # File giới thiệu này
+
+
