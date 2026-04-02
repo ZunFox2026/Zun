@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="zun.jpg" alt="Zun Technologies – Official Logo" width="200" style="border-radius: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
+  <img src="zunny/zun.jpg" alt="Zun Technologies – Official Logo" width="200" style="border-radius: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
   
   # ⚡ Zun Technologies – Bộ nhận diện thương hiệu
   
