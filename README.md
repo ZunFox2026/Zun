@@ -105,9 +105,5 @@ Zun Technologies luôn trân trọng mọi phản hồi từ cộng đồng.
 
 <div align="center">
   <sub>© 2026 Zun Technologies – Bản quyền thuộc về Zun Technologies.  
-  Logo và linh vật là tài sản độc quyền, vui lòng không sử dụng khi chưa có sự cho phép.</sub>
-</div>
-├── zunnyavatar.jpg        # Linh vật Zunny (avatar vuông)
-└── README.md              # File giới thiệu này
-
+  Logo và linh vật là tài sản độc quyền, vui lòng không sử dụng khi chưa có sự cho phép.
 
