@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image/image.png" alt="Zunny Cloud" width="200" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <img src="Image/image.png" alt="Zunny Cloud" width="200" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
   
   # ☁️ Zunny Cloud – Windows RDP Server
   
