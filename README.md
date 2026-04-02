@@ -1,62 +1,46 @@
 <div align="center">
-  <img src="zunny/zunnyavatar.jpg" alt="Zunny – Mascot of Zun Cloud" width="160" style="border-radius: 50%;">
+  <img src="zun.jpg" alt="Zun Technologies Official Avatar" width="200" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
   
-  # ☁️ Zun Cloud – Free Projects
+  # ⚡ Zun Technologies – Official Avatar
   
-  **Tập hợp các dự án miễn phí từ Zun Technologies**  
-  *Mã nguồn mở, công cụ hữu ích, và sản phẩm cộng đồng*
+  *Đại diện chính thức cho công nghệ và sáng tạo*
   
-  ![](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-  ![](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-  ![](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-cyan?style=flat-square)
+  ![](https://img.shields.io/badge/Brand-Zun_Technologies-0A192F?style=flat-square)
+  ![](https://img.shields.io/badge/Style-Modern_%2B_Futuristic-00C8FF?style=flat-square)
   
 </div>
 
 ---
 
-## 📦 Giới thiệu
+## 📸 Về hình ảnh
 
-Repository này là nơi lưu trữ các **dự án miễn phí** do **Zun Technologies** phát triển và chia sẻ.  
-Bao gồm:
+Avatar này là biểu tượng chính thức của **Zun Technologies** – công ty công nghệ chuyên về giải pháp cloud, mã nguồn mở và các sản phẩm số.
 
-- Scripts tiện ích
-- Cấu hình mẫu cho cloud
-- Ứng dụng nhỏ phục vụ cộng đồng dev
-- Và nhiều thứ khác đang được cập nhật…
-
-Mọi thứ đều **miễn phí**, **mã nguồn mở** và luôn được cải thiện.
+- **Hình thức:** Thiết kế tối giản, kết hợp giữa chữ “Z” cách điệu và các đường nét công nghệ.
+- **Màu sắc:** Xanh than (navy) chủ đạo, điểm nhấn xanh cyan điện, thể hiện sự tin cậy và đổi mới.
+- **Ý nghĩa:** Hình khối vừa mạnh mẽ vừa uyển chuyển, tượng trưng cho sự kết nối linh hoạt và nền tảng vững chắc mà Zun Technologies mang lại.
 
 ---
 
-## 🦊 Linh vật – Zunny
+## 🦊 Linh vật đồng hành – Zunny
 
-<div align="center">
-  <img src="zunny/zunnyavatar.jpg" width="120" style="border-radius: 20px;">
-</div>
+Bên cạnh avatar công ty, Zun Technologies còn có linh vật **Zunny** – một chú cáo mây dễ thương nhưng không kém phần ngầu.  
+Zunny thường xuất hiện trong các dự án cộng đồng, kênh hỗ trợ và các sản phẩm mang tính tương tác cao.
 
-**Zunny** là linh vật chính thức của **Zun Cloud**, đại diện cho tinh thần sáng tạo và kết nối của **Zun Technologies**.  
-Với đôi tai sóng Z và mạch điện, Zunny luôn đồng hành cùng các dự án của chúng tôi.
+> *Avatar công ty – Sự chuyên nghiệp.  
+> Zunny – Trái tim kết nối.*
 
 ---
 
-## 📫 Liên hệ & Hỗ trợ
+## 📫 Liên hệ
 
-Nếu phát hiện sai sót, có câu hỏi, hoặc muốn đóng góp, hãy liên hệ qua:
+Mọi thông tin về thương hiệu, hợp tác hoặc góp ý vui lòng liên hệ:
 
-- **Telegram Bot:** [@Zunnycloud_bot](https://t.me/Zunnycloud_bot) (hỗ trợ tự động)
+- **Telegram Bot:** [@Zunnycloud_bot](https://t.me/Zunnycloud_bot)
 - **Email:** [zunny932@gmail.com](mailto:zunny932@gmail.com)
 
-Phản hồi của bạn giúp chúng tôi ngày càng tốt hơn!
-
----
-
-## 📜 Giấy phép
-
-Phần lớn các dự án trong repository này được phân phối dưới giấy phép **MIT**, trừ khi có thông báo riêng.  
-Bạn được khuyến khích sử dụng, chỉnh sửa và chia sẻ.
-
 ---
 
 <div align="center">
-  <sub>Made with ☁️ and 💙 by <strong>Zun Technologies</strong> – where Zunny lives.</sub>
+  <sub>© 2026 Zun Technologies – Built with ☁️ and 💙</sub>
 </div>
