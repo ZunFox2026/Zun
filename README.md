@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="zunny/zun.jpg" alt="Zun Technologies – Official Logo" width="200" style="border-radius: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
+  <img src="Image/zun.jpg" alt="Zun Technologies – Official Logo" width="200" style="border-radius: 24px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
   
   # ⚡ Zun Technologies – Bộ nhận diện thương hiệu
   
@@ -27,7 +27,7 @@ Hai hình ảnh này được sử dụng linh hoạt tùy theo ngữ cảnh, nh
 ## 🏢 1. Logo công ty – Zun Technologies
 
 <div align="center">
-  <img src="zunny/zun.jpg" alt="Zun Technologies Logo" width="180" style="border-radius: 20px;">
+  <img src="Image/zun.jpg" alt="Zun Technologies Logo" width="180" style="border-radius: 20px;">
 </div>
 
 ### 🔹 Thiết kế & ý nghĩa
@@ -51,7 +51,7 @@ Hai hình ảnh này được sử dụng linh hoạt tùy theo ngữ cảnh, nh
 ## 🦊 2. Linh vật Zunny
 
 <div align="center">
-  <img src="zunny/zunnyavatar.jpg" alt="Zunny – Mascot of Zun Technologies" width="160" style="border-radius: 50%; border: 2px solid #00C8FF;">
+  <img src="Image/zunnyavatar.jpg" alt="Zunny – Mascot of Zun Technologies" width="160" style="border-radius: 50%; border: 2px solid #00C8FF;">
 </div>
 
 ### 🔹 Câu chuyện linh vật
